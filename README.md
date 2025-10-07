@@ -1,3 +1,12 @@
+## 👋 About Me
+Hi! I’m Sagar — a backend developer passionate about building robust and scalable applications.  
+
+- 🎓 Currently learning **Spring Boot** for backend development  
+- 🌱 Focused on **server-side programming**, REST APIs, and database management  
+- 🌸 Anime lover! Favorites include **"The Garden of Words"** and **"86"** — love the storytelling and visuals   
+- 💡 Excited to contribute to **open-source projects** and improve my skills
+
+
 ![Description of GIF](/intro.gif)
 
 <!--
