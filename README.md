@@ -1,4 +1,4 @@
-![Description of GIF](intro.gif)
+![Description of GIF](/intro.gif)
 
 <!--
 **sagar-dot-bera/sagar-dot-bera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
