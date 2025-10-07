@@ -1,13 +1,13 @@
-## 👋 About Me
-Hi! I’m Sagar — a backend developer passionate about building robust and scalable applications.  
+![Description of GIF](/intro.gif)
 
+## 👋 About Me
 - 🎓 Currently learning **Spring Boot** for backend development  
 - 🌱 Focused on **server-side programming**, REST APIs, and database management  
 - 🌸 Anime lover! Favorites include **"The Garden of Words"** and **"86"** — love the storytelling and visuals   
 - 💡 Excited to contribute to **open-source projects** and improve my skills
 
 
-![Description of GIF](/intro.gif)
+
 
 <!--
 **sagar-dot-bera/sagar-dot-bera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
